@@ -31,6 +31,7 @@ An operational framework built from real-world DoD experience, demonstrating how
 
 ## 💡 **What Makes This Different**
 
+<a name="quick-start"></a>
 ## 🚀 **Quick Start - See It In Action**
 
 **Want to understand this framework in 5 minutes?**
@@ -76,6 +77,7 @@ An operational framework built from real-world DoD experience, demonstrating how
 
 ---
 
+<a name="proven-results"></a>
 ## 📊 **Proven Results**
 
 This isn't theory—it's operational reality. Organizations implementing this framework achieve:
@@ -155,7 +157,8 @@ Organizations implementing this framework achieve:
 
 ---
 
-## ✨ Key Differentiators
+<a name="what-makes-this-different"></a>
+## 💡 **What Makes This Different**
 
 ### 1. Proactive Configuration Management
 
@@ -204,6 +207,7 @@ Organizations implementing this framework achieve:
 
 ---
 
+<a name="technical-architecture"></a>
 ## 🏗️ **Technical Architecture**
 
 ### 🔧 **The Power of Proactive Configuration**
@@ -349,6 +353,7 @@ Traditional approaches treat STIG compliance as validation—scan, identify fail
 
 ---
 
+<a name="implementation-methodology"></a>
 ## 🔄 **Implementation Methodology - The 9-Phase Framework**
 
 This isn't a one-time project—it's a sustainable compliance lifecycle.
@@ -692,6 +697,7 @@ GPOs apply automatically every 90 minutes. This creates a self-healing configura
 
 ---
 
+<a name="project-structure"></a>
 ## 📁 **Project Structure - Your Complete Toolkit**
 
 Everything you need to implement enterprise-scale STIG compliance:
@@ -835,7 +841,8 @@ Everything you need to implement enterprise-scale STIG compliance:
 
 ---
 
-## 🔧 Prerequisites
+<a name="prerequisites"></a>
+## 🔧 **Prerequisites**
 
 ### Access Requirements
 - **Active Directory:** Domain Administrator privileges for GPO creation and deployment
@@ -863,7 +870,8 @@ Everything you need to implement enterprise-scale STIG compliance:
 
 ---
 
-## 🚀 Getting Started
+<a name="getting-started"></a>
+## 🎓 **Getting Started**
 
 ### Step 1: Environment Assessment
 
@@ -926,7 +934,8 @@ Continue through all 9 phases sequentially, using the quality checkpoints to ens
 
 ---
 
-## 📊 Continuous Monitoring
+<a name="continuous-monitoring"></a>
+## 📊 **Continuous Monitoring**
 
 ### Monitoring Strategy
 
@@ -981,7 +990,8 @@ $drift = Compare-Object $currentScan $baselineScan -Property FindingID, Status |
 
 ---
 
-## 📈 Metrics and Reporting
+<a name="metrics-and-reporting"></a>
+## 📈 **Metrics and Reporting**
 
 ### Key Performance Indicators (KPIs)
 
@@ -1049,7 +1059,8 @@ $drift = Compare-Object $currentScan $baselineScan -Property FindingID, Status |
 
 ---
 
-## 🤝 Contributing
+<a name="contributing"></a>
+## 🤝 **Contributing**
 
 This framework benefits from real-world operational experience and lessons learned from DoD security practitioners.
 
@@ -1096,7 +1107,8 @@ Contributions in these areas are especially valuable:
 
 ---
 
-## 📜 License
+<a name="license"></a>
+## 📜 **License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 

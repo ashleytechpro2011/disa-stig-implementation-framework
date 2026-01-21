@@ -837,7 +837,7 @@ Everything you need to implement enterprise-scale STIG compliance:
 ---
 
 <a name="prerequisites"></a>
-## 🔧 **Prerequisites**
+##🔧 **Prerequisites**
 
 ### Access Requirements
 - **Active Directory:** Domain Administrator privileges for GPO creation and deployment

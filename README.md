@@ -41,21 +41,6 @@ An operational framework built from real-world DoD experience, demonstrating how
 **Ready to implement?** Follow the [Getting Started](#-getting-started) section below.
 ---
 ## 📋 Table of Contents
-- [Executive Summary](#executive-summary)
-- [Framework Overview](#framework-overview)
-- [Key Differentiators](#key-differentiators)
-- [Technical Architecture](#technical-architecture)
-- [Implementation Methodology](#implementation-methodology)
-- [Project Structure](#project-structure)
-- [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
-- [Continuous Monitoring](#continuous-monitoring)
-- [Metrics and Reporting](#metrics-and-reporting)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-## 💡 **What Makes This Different**
 - [🎯 Why This Framework Exists](#-why-this-framework-exists)
 - [💡 What Makes This Different](#-what-makes-this-different)
 - [🚀 Quick Start - See It In Action](#-quick-start---see-it-in-action)

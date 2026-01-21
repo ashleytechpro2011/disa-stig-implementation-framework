@@ -850,8 +850,9 @@ Everything you need to implement enterprise-scale STIG compliance:
 
 ---
 
-<a name="getting-started></a> 
+<a name="-getting-started></a>
 ## 🎓 **Getting-Started** 
+
 ### Step 1: Environment Assessment
 
 Review your current environment:

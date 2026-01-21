@@ -864,7 +864,6 @@ Everything you need to implement enterprise-scale STIG compliance:
 - Security control assessment and evidence validation
 
 ---
-
 <a name="getting-started"></a>
 ## 🎓 **Getting Started**
 

@@ -332,7 +332,6 @@ Traditional approaches treat STIG compliance as validation—scan, identify fail
 | **Risk Management** | Deviation tracking and acceptance | POA&M management, compensating control documentation |
 
 ---
-
 <a name="implementation-methodology"></a>
 ## 🔄 **Implementation Methodology - The 9-Phase Framework**
 

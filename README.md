@@ -29,11 +29,7 @@ An operational framework built from real-world DoD experience, demonstrating how
 
 ---
 
-## 💡 **What Makes This Different**
-
-<a name="quick-start"></a>
 ## 🚀 **Quick Start - See It In Action**
-
 **Want to understand this framework in 5 minutes?**
 
 1. 📖 **Read the [ISSO Briefing](docs/isso-briefing.md)** - Understand the team approach and methodology
@@ -43,9 +39,8 @@ An operational framework built from real-world DoD experience, demonstrating how
 5. 📝 **Browse the [Templates](templates/)** - Professional documentation examples
 
 **Ready to implement?** Follow the [Getting Started](#-getting-started) section below.
-
 ---
-
+## 📋 Table of Contents
 - [Executive Summary](#executive-summary)
 - [Framework Overview](#framework-overview)
 - [Key Differentiators](#key-differentiators)
@@ -59,8 +54,8 @@ An operational framework built from real-world DoD experience, demonstrating how
 - [Contributing](#contributing)
 - [License](#license)
 
-## 📋 Table of Contents
-
+---
+## 💡 **What Makes This Different**
 - [Why This Framework Exists](#why-this-framework-exists)
 - [What Makes This Different](#what-makes-this-different)  
 - [Quick Start](#quick-start---see-it-in-action)
